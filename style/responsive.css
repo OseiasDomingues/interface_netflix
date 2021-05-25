@@ -1,0 +1,19 @@
+@media screen and (max-width:850px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 5px;
+    }
+    main .container{
+        margin-left: 5%;
+        width: 90%;
+    }
+
+    .button_info{
+        width: 260px;
+    }
+    main .series-principal{
+        background-position: center;
+           
+    }
+}
